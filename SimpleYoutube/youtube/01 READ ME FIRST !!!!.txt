@@ -1,0 +1,24 @@
+SIMPLE YOUTUBE CLONE IN REACTJS
+
+**Developed By Germán Cutraro**
+
+Requirements: npm, Youtube API
+
+How To Run?
+- npm install (to install all dependencies)
+- npm start (to run application)
+
+**NOTE**
+You need to set your own Youtube API Key in 'key.js' file which is inside src folder.
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+#THANK YOU FOR DOWNLOADING
